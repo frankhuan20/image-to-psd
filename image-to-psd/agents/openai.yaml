@@ -1,0 +1,6 @@
+interface:
+  display_name: "Image to PSD"
+  short_description: "Inspect PNGs and build layered PSDs"
+  default_prompt: "Use $image-to-psd to inspect this PNG for text/image defects, repair it if needed, and convert it into a layered PSD."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "type": "commonjs",
+  "dependencies": {
+    "ag-psd": "^30.1.1",
+    "pngjs": "^7.0.0"
+  }
+}
